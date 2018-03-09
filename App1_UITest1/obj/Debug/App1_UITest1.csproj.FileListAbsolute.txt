@@ -1,0 +1,10 @@
+C:\MikeRoot2\MikeTest\Xamarin\App1\App1\App1_UITest1\bin\Debug\App1_UITest1.dll
+C:\MikeRoot2\MikeTest\Xamarin\App1\App1\App1_UITest1\bin\Debug\App1_UITest1.pdb
+C:\MikeRoot2\MikeTest\Xamarin\App1\App1\App1_UITest1\bin\Debug\nunit.framework.dll
+C:\MikeRoot2\MikeTest\Xamarin\App1\App1\App1_UITest1\bin\Debug\Xamarin.UITest.dll
+C:\MikeRoot2\MikeTest\Xamarin\App1\App1\App1_UITest1\bin\Debug\nunit.framework.xml
+C:\MikeRoot2\MikeTest\Xamarin\App1\App1\App1_UITest1\bin\Debug\Xamarin.UITest.xml
+C:\MikeRoot2\MikeTest\Xamarin\App1\App1\App1_UITest1\obj\Debug\App1_UITest1.csproj.CoreCompileInputs.cache
+C:\MikeRoot2\MikeTest\Xamarin\App1\App1\App1_UITest1\obj\Debug\App1_UITest1.dll
+C:\MikeRoot2\MikeTest\Xamarin\App1\App1\App1_UITest1\obj\Debug\App1_UITest1.pdb
+C:\MikeRoot2\MikeTest\Xamarin\App1\App1\App1_UITest1\obj\Debug\App1_UITest1.csprojResolveAssemblyReference.cache
